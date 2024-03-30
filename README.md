@@ -5,13 +5,13 @@
          width="45" />, I'm Deepali Kasture</h1>
          <h3 align="center">I’m a Software engineer. I like to make digital experiences simpler for people.💜</h3>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsankhla&label=Profile%20views&color=blueviolet&style=flat" alt="deepalik-neu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepalik-neu&label=Profile%20views&color=blueviolet&style=flat" alt="deepalik-neu" /> </p>
 <p>
 
 </p>
 
 <p>
-         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepalik-neu&hide=java&theme=radical" alt="deepalik-neu" />
+         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepalik-neu&hide=Gherkin&theme=radical" alt="deepalik-neu" />
 </p>
 <p>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepalik-neu&count_private=true&theme=radical" alt="deepalik-neu" />
@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning Distributed System Design
 
-- 👨‍💻 All about me is at [My Website](https://tarunsankhla.github.io/)
+- 👯 Attended Grace Hopper Conference and engaged with like-minded women
 
 - 📝 Sometimes I like to organize [Tech Events](https://www.linkedin.com/feed/update/urn:li:activity:7115558902514999296/)
 
