@@ -5,7 +5,7 @@
          width="45" />, I'm Deepali Kasture</h1>
          <h3 align="center">I’m a Software engineer. I like to make digital experiences simpler for people.💜</h3>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepalik-neu&label=Profile%20views&color=blueviolet&style=flat" alt="deepalik-neu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsankhla&label=Profile%20views&color=blueviolet&style=flat" alt="deepalik-neu" /> </p>
 <p>
 
 </p>
